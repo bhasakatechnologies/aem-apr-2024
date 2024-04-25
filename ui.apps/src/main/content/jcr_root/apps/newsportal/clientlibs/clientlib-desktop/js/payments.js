@@ -1,0 +1,1 @@
+var paymentType = "master-card";
